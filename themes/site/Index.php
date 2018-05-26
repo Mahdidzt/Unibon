@@ -9,9 +9,11 @@
 
             ?>
         </div>
+		
+		
+		
 		<?php
         echo do_shortcode('[products]');
-
         ?>
     </div>
 </div>
