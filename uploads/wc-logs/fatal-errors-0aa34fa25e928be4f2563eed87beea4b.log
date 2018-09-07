@@ -1,0 +1,10 @@
+2018-09-07T17:53:50+00:00 CRITICAL Call to a member function get_regular_price() on boolean
+
+2018-09-07T17:55:59+00:00 CRITICAL Call to a member function get_regular_price() on boolean
+
+2018-09-07T17:56:24+00:00 CRITICAL Call to a member function get_image_id() on boolean
+
+2018-09-07T17:57:56+00:00 CRITICAL Call to a member function get_image() on boolean
+
+2018-09-07T18:36:41+00:00 CRITICAL Using $this when not in object context
+
